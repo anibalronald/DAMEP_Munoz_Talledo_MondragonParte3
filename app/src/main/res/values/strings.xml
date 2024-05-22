@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">DAMEP_Munoz_Talledo_Mondragon</string>
+    <string name="radiobtn_Urbano">Urbano</string>
+    <string name="radiobtn_Rural">Rural</string>
+    <string name="checkbox_gato">Gato</string>
+    <string name="checkbox_perro">Perro</string>
+    <string name="checkbox_pollo">Pollo</string>
+    <string name="checkbox_pato" />
+    <string name="checkbox_Pato">Pato</string>
+    <string name="checkbox_otro">Otro</string>
 </resources>
