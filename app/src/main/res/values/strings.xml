@@ -8,4 +8,6 @@
     <string name="checkbox_pato" />
     <string name="checkbox_Pato">Pato</string>
     <string name="checkbox_otro">Otro</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="txtApNom">Apellidos y Nombres</string>
 </resources>
